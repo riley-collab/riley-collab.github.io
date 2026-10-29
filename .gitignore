@@ -24,3 +24,6 @@ yarn-error.log*
 
 .env
 /build
+
+# tailored resumes (private, not committed)
+/resume/tailored
